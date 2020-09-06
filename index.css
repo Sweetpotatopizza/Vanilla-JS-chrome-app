@@ -1,13 +1,12 @@
 body {
-  background-color: #ffffff;
+  background-color: #000000;
+  color: #ffffff;
+  display: inline;
+  text-align: center;
 }
 
 .btn {
   cursor: pointer;
-}
-
-body {
-  color: #34495e;
 }
 
 .clicked {
